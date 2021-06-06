@@ -1,0 +1,538 @@
+{
+    "Satyajit Ray": {
+        "Bengali": 5,
+        "English": 1
+    },
+    "Mani Ratnam": {
+        "Tamil": 7,
+        "Hindi": 2
+    },
+    "Sundar C.": {
+        "Tamil": 1
+    },
+    "Hrishikesh Mukherjee": {
+        "Hindi": 3
+    },
+    "Venkatesh Maha": {
+        "Telugu": 1
+    },
+    "Jeethu Joseph": {
+        "Malayalam": 3,
+        "Tamil": 1
+    },
+    "Mari Selvaraj": {
+        "Tamil": 2
+    },
+    "Sibi Malayil": {
+        "Malayalam": 1
+    },
+    "Mahesh Manjrekar": {
+        "Marathi": 1,
+        "Hindi": 1
+    },
+    "Fazil": {
+        "Malayalam": 1
+    },
+    "C. Prem Kumar": {
+        "Tamil": 1
+    },
+    "Anurag Kashyap": {
+        "Hindi": 6
+    },
+    "Bharathan": {
+        "Tamil": 1
+    },
+    "Madhu C. Narayanan": {
+        "Malayalam": 1
+    },
+    "Rajkumar Hirani": {
+        "Hindi": 4,
+        "English": 1
+    },
+    "Vetrimaaran": {
+        "Tamil": 4,
+        "Hindi": 1
+    },
+    "Aamir Khan": {
+        "Hindi": 1
+    },
+    "Ram Kumar": {
+        "Tamil": 1
+    },
+    "Gowtam Tinnanuri": {
+        "Telugu": 1
+    },
+    "Mahavir Singh Phogat": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Sudha Kongara": {
+        "Tamil": 2,
+        "Hindi": 2
+    },
+    "Lokesh Kanagaraj": {
+        "Tamil": 1
+    },
+    "Kundan Shah": {
+        "Hindi": 2
+    },
+    "Guru Dutt": {
+        "Hindi": 1
+    },
+    "Vijay Anand": {
+        "Hindi": 1
+    },
+    "Mohan Raja": {
+        "Tamil": 1
+    },
+    "Ram": {
+        "Tamil": 1
+    },
+    "Gayatri": {
+        "Tamil": 1
+    },
+    "Arun Prabhu Purushothaman": {
+        "Tamil": 1
+    },
+    "Swaroop Rsj": {
+        "Telugu": 1
+    },
+    "Thiagarajan Kumararaja": {
+        "Tamil": 1
+    },
+    "Dibakar Banerjee": {
+        "Hindi": 3
+    },
+    "Savitri": {
+        "Telugu": 1,
+        "Tamil": 1
+    },
+    "Rahi Anil Barve": {
+        "Hindi": 1
+    },
+    "K. Selvaraghavan": {
+        "Tamil": 1
+    },
+    "Alphonse Puthren": {
+        "Malayalam": 1
+    },
+    "M. Manikandan": {
+        "Tamil": 1
+    },
+    "S. Shankar": {
+        "Tamil": 3,
+        "Hindi": 1
+    },
+    "Sriram Raghavan": {
+        "Hindi": 2,
+        "English": 1
+    },
+    "Karthick Naren": {
+        "Tamil": 1
+    },
+    "Anjali Menon": {
+        "Malayalam": 1
+    },
+    "Ram Gopal Varma": {
+        "Hindi": 3
+    },
+    "Hansal Mehta": {
+        "Hindi": 2
+    },
+    "Nalan Kumarasamy": {
+        "Tamil": 1
+    },
+    "Karthik Subbaraj": {
+        "Tamil": 2
+    },
+    "Bala": {
+        "Tamil": 1
+    },
+    "Nagraj Manjule": {
+        "Marathi": 1
+    },
+    "Tigmanshu Dhulia": {
+        "Hindi": 1
+    },
+    "Milkha Singh": {
+        "Hindi": 1
+    },
+    "Meghna Gulzar": {
+        "Hindi": 2
+    },
+    "Sanjay Leela Bhansali": {
+        "Hindi": 2,
+        "English": 1
+    },
+    "Priyadarshan": {
+        "Hindi": 2
+    },
+    "Ashutosh Gowariker": {
+        "Hindi": 3,
+        "English": 2,
+        "Urdu": 1
+    },
+    "Ramesh Sippy": {
+        "Hindi": 1
+    },
+    "Ashwiny Iyer Tiwari": {
+        "Hindi": 1
+    },
+    "Shimit Amin": {
+        "Hindi": 2
+    },
+    "Anwar Rasheed": {
+        "Malayalam": 1
+    },
+    "Mansoor Khan": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "K. Asif": {
+        "Urdu": 1
+    },
+    "Nishikant Kamat": {
+        "Hindi": 3,
+        "English": 1
+    },
+    "Anubhav Sinha": {
+        "Hindi": 1
+    },
+    "Zoya Akhtar": {
+        "Hindi": 2,
+        "English": 2,
+        "Spanish": 1
+    },
+    "Vikramaditya Motwane": {
+        "Hindi": 2
+    },
+    "Dileesh Pothan": {
+        "Malayalam": 2
+    },
+    "Vikas Bahl": {
+        "Hindi": 2,
+        "English": 1,
+        "French": 1,
+        "Japanese": 1,
+        "Dutch": 1
+    },
+    "Neeraj Pandey": {
+        "Hindi": 3
+    },
+    "H. Vinoth": {
+        "Tamil": 1
+    },
+    "Neeraj Ghaywan": {
+        "Hindi": 1
+    },
+    "John Mathew Matthan": {
+        "Hindi": 1
+    },
+    "Farhan Akhtar": {
+        "Hindi": 2
+    },
+    "Umesh Shukla": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Suresh Krishna": {
+        "Tamil": 1
+    },
+    "Rakeysh Omprakash Mehra": {
+        "Hindi": 1
+    },
+    "Sujoy Ghosh": {
+        "Hindi": 2
+    },
+    "Rajkumar Santoshi": {
+        "Hindi": 2
+    },
+    "Aditya Dhar": {
+        "Hindi": 1
+    },
+    "Kamal Haasan": {
+        "Tamil": 2,
+        "Hindi": 1
+    },
+    "Nitesh Tiwari": {
+        "Hindi": 1
+    },
+    "Nagesh Kukunoor": {
+        "Hindi": 2,
+        "Urdu": 1
+    },
+    "Pawan Kumar": {
+        "Kannada": 1
+    },
+    "Bhaskar": {
+        "Telugu": 1
+    },
+    "Anurag Basu": {
+        "Hindi": 2
+    },
+    "Aniruddha Roy Chowdhury": {
+        "Hindi": 1
+    },
+    "Vishal Bhardwaj": {
+        "Hindi": 3,
+        "Urdu": 1
+    },
+    "Ajay Bahl": {
+        "Hindi": 1
+    },
+    "Ranjith": {
+        "Malayalam": 1
+    },
+    "Tharun Bhascker Dhaassyam": {
+        "Telugu": 1
+    },
+    "Yash Chopra": {
+        "Hindi": 3
+    },
+    "Magizh Thirumeni": {
+        "Tamil": 1
+    },
+    "S.S. Rajamouli": {
+        "Telugu": 4,
+        "Tamil": 3
+    },
+    "Jyoti Swaroop": {
+        "Hindi": 1
+    },
+    "Balaji Tharaneetharan": {
+        "Tamil": 1
+    },
+    "Aditya Chopra": {
+        "Hindi": 1
+    },
+    "Trivikram Srinivas": {
+        "Telugu": 1
+    },
+    "Mahesh Narayan": {
+        "Malayalam": 1
+    },
+    "Sukumar": {
+        "Telugu": 3
+    },
+    "K.S. Ravikumar": {
+        "Tamil": 1
+    },
+    "Mehboob Khan": {
+        "Hindi": 1
+    },
+    "Anand Gandhi": {
+        "English": 1,
+        "Arabic": 1,
+        "Swedish": 1,
+        "Hindi": 1
+    },
+    "Prashanth Neel": {
+        "Kannada": 2
+    },
+    "Amit Ravindernath Sharma": {
+        "Hindi": 1
+    },
+    "Gautham Vasudev Menon": {
+        "Tamil": 4
+    },
+    "Rakshit Shetty": {
+        "Kannada": 1
+    },
+    "Kabir Khan": {
+        "Hindi": 1,
+        "Urdu": 1
+    },
+    "Radha Krishna Jagarlamudi": {
+        "Telugu": 1
+    },
+    "Rajat Kapoor": {
+        "Hindi": 1
+    },
+    "Sandeep Reddy Vanga": {
+        "Telugu": 1
+    },
+    "Ketan Mehta": {
+        "Hindi": 1
+    },
+    "Mukesh Chhabra": {
+        "Hindi": 1
+    },
+    "Karan Johar": {
+        "Hindi": 2,
+        "English": 1
+    },
+    "Nikkhil Advani": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Imtiaz Ali": {
+        "Hindi": 3
+    },
+    "Lijo Jose Pellissery": {
+        "Malayalam": 1
+    },
+    "Roshan Andrews": {
+        "Malayalam": 1
+    },
+    "Martin Prakkat": {
+        "Malayalam": 1
+    },
+    "J.P. Dutta": {
+        "Hindi": 1
+    },
+    "Chakri Toleti": {
+        "Tamil": 1,
+        "Telugu": 1,
+        "English": 1
+    },
+    "R. Balki": {
+        "Hindi": 1
+    },
+    "Raja Menon": {
+        "Hindi": 1
+    },
+    "Gunasekhar": {
+        "Telugu": 1
+    },
+    "Gauri Shinde": {
+        "Hindi": 1
+    },
+    "Saket Chaudhary": {
+        "Hindi": 1
+    },
+    "Prakash Jha": {
+        "Hindi": 1
+    },
+    "Vikram K. Kumar": {
+        "Telugu": 1,
+        "Tamil": 1
+    },
+    "Abhishek Chaubey": {
+        "Hindi": 2
+    },
+    "Ritesh Batra": {
+        "Hindi": 1
+    },
+    "Advait Chandan": {
+        "Hindi": 1
+    },
+    "Puri Jagannadh": {
+        "Telugu": 1
+    },
+    "Shoojit Sircar": {
+        "Hindi": 3
+    },
+    "Shekhar Kapur": {
+        "Hindi": 1
+    },
+    "Chandra Barot": {
+        "Hindi": 1
+    },
+    "Amole Gupte": {
+        "Hindi": 1
+    },
+    "Anup Bhandari": {
+        "Kannada": 1
+    },
+    "Mahendra Singh Dhoni": {
+        "Hindi": 1
+    },
+    "Abhishek Kapoor": {
+        "Hindi": 2
+    },
+    "Sashi Kiran Tikka": {
+        "Telugu": 1
+    },
+    "Shashant Shah": {
+        "Hindi": 1
+    },
+    "K.V. Anand": {
+        "Tamil": 1
+    },
+    "Velraj": {
+        "Tamil": 1
+    },
+    "See full summary": {
+        "Tibetan": 1,
+        "Ladakhi": 1
+    },
+    "A.R. Murugadoss": {
+        "Tamil": 2
+    },
+    "Shakun Batra": {
+        "Hindi": 1
+    },
+    "Sachin Ravi": {
+        "Kannada": 1
+    },
+    "Amit Masurkar": {
+        "Hindi": 1
+    },
+    "Raj Kumar Gupta": {
+        "Hindi": 1
+    },
+    "Deepa Mehta": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Vivek Agnihotri": {
+        "Hindi": 1
+    },
+    "Mukul Anand": {
+        "Hindi": 1
+    },
+    "Rohena Gera": {
+        "Hindi": 1,
+        "English": 1,
+        "Marathi": 1
+    },
+    "Luv Ranjan": {
+        "Hindi": 1
+    },
+    "Ram Madhvani": {
+        "Hindi": 1
+    },
+    "Sagar Ballary": {
+        "Hindi": 1
+    },
+    "Desingh Periyasamy": {
+        "Tamil": 1
+    },
+    "Abbas Alibhai Burmawalla": {
+        "Hindi": 1
+    },
+    "Navdeep Singh": {
+        "Hindi": 1
+    },
+    "Aanand L. Rai": {
+        "Hindi": 2
+    },
+    "Dharani": {
+        "Tamil": 1
+    },
+    "Ayan Mukherjee": {
+        "Hindi": 1
+    },
+    "Surender Reddy": {
+        "Telugu": 1
+    },
+    "Parasuram": {
+        "Telugu": 1
+    },
+    "Sanjay Dutt": {
+        "Hindi": 1
+    },
+    "Abhinay Deo": {
+        "English": 1,
+        "Hindi": 1
+    },
+    "Abhishek Sharma": {
+        "Hindi": 1
+    },
+    "Amar Kaushik": {
+        "Hindi": 1
+    },
+    "Rajesh Krishnan": {
+        "Hindi": 1
+    }
+}

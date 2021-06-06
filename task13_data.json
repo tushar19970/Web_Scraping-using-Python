@@ -1,0 +1,754 @@
+[
+    {
+        "Movie_Name": {
+            "name": "Pather Panchali",
+            "director": [
+                "Satyajit Ray"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0048473/mediaviewer/rm2023787521",
+            "bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+            "run time": "125 minutes",
+            "genre": [
+                "Drama"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Bengali"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0052333",
+                "Name": "Kanu Bannerjee"
+            },
+            {
+                "Imdb_id": "nm0052334",
+                "Name": "Karuna Bannerjee"
+            },
+            {
+                "Imdb_id": "nm0222447",
+                "Name": "Chunibala Devi"
+            },
+            {
+                "Imdb_id": "nm0201871",
+                "Name": "Uma Das Gupta"
+            },
+            {
+                "Imdb_id": "nm0052343",
+                "Name": "Subir Banerjee"
+            },
+            {
+                "Imdb_id": "nm0051846",
+                "Name": "Runki Banerjee"
+            },
+            {
+                "Imdb_id": "nm0222480",
+                "Name": "Reba Devi"
+            },
+            {
+                "Imdb_id": "nm0222436",
+                "Name": "Aparna Devi"
+            },
+            {
+                "Imdb_id": "nm0149831",
+                "Name": "Tulsi Chakraborty"
+            },
+            {
+                "Imdb_id": "nm0051836",
+                "Name": "Haren Banerjee"
+            },
+            {
+                "Imdb_id": "nm5580026",
+                "Name": "Rampada Das"
+            },
+            {
+                "Imdb_id": "nm0222467",
+                "Name": "Nibhanani Devi"
+            },
+            {
+                "Imdb_id": "nm0304346",
+                "Name": "Rama Gangopadhaya"
+            },
+            {
+                "Imdb_id": "nm0304351",
+                "Name": "Roma Ganguli"
+            },
+            {
+                "Imdb_id": "nm0611518",
+                "Name": "Binoy Mukherjee"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Nayakan",
+            "director": [
+                "Mani Ratnam"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0093603/mediaviewer/rm1040255488",
+            "bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+            "run time": "156 minutes",
+            "genre": [
+                "Crime"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Tamil"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0352032",
+                "Name": "Kamal Haasan"
+            },
+            {
+                "Imdb_id": "nm0764853",
+                "Name": "Saranya Ponvannan"
+            },
+            {
+                "Imdb_id": "nm0304265",
+                "Name": "Delhi Ganesh"
+            },
+            {
+                "Imdb_id": "nm0417301",
+                "Name": "Janakaraj"
+            },
+            {
+                "Imdb_id": "nm0440232",
+                "Name": "Karthika"
+            },
+            {
+                "Imdb_id": "nm0621937",
+                "Name": "Nassar"
+            },
+            {
+                "Imdb_id": "nm0025627",
+                "Name": "Tinnu Anand"
+            },
+            {
+                "Imdb_id": "nm0712437",
+                "Name": "Nizhalgal Ravi"
+            },
+            {
+                "Imdb_id": "nm1115041",
+                "Name": "M.V. Vasudeva Rao"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Anbe Sivam",
+            "director": [
+                "Sundar C."
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0367495/mediaviewer/rm3025237504",
+            "bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+            "run time": "160 minutes",
+            "genre": [
+                "Adventure"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Tamil"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0352032",
+                "Name": "Kamal Haasan"
+            },
+            {
+                "Imdb_id": "nm0534856",
+                "Name": "Madhavan"
+            },
+            {
+                "Imdb_id": "nm0993256",
+                "Name": "Kiran Rathod"
+            },
+            {
+                "Imdb_id": "nm0621937",
+                "Name": "Nassar"
+            },
+            {
+                "Imdb_id": "nm0080248",
+                "Name": "Santhana Bharathi"
+            },
+            {
+                "Imdb_id": "nm1428808",
+                "Name": "Uma Riyaz Khan"
+            },
+            {
+                "Imdb_id": "nm1429474",
+                "Name": "Yugi Sethu"
+            },
+            {
+                "Imdb_id": "nm0369696",
+                "Name": "Ilavarasu"
+            },
+            {
+                "Imdb_id": "nm1428051",
+                "Name": "Balu Anand"
+            },
+            {
+                "Imdb_id": "nm0781630",
+                "Name": "Seema"
+            },
+            {
+                "Imdb_id": "nm0794478",
+                "Name": "R.S. Shivaji"
+            },
+            {
+                "Imdb_id": "nm1429352",
+                "Name": "Laxmi Rattan"
+            },
+            {
+                "Imdb_id": "nm1428279",
+                "Name": "Chelladurai"
+            },
+            {
+                "Imdb_id": "nm1428684",
+                "Name": "Hillaary"
+            },
+            {
+                "Imdb_id": "nm1427699",
+                "Name": "Jacob"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Gol Maal",
+            "director": [
+                "Hrishikesh Mukherjee"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0079221/mediaviewer/rm3716412160",
+            "bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+            "run time": "144 minutes",
+            "genre": [
+                "Comedy"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Hindi"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm6453091",
+                "Name": "Kathir"
+            },
+            {
+                "Imdb_id": "nm6695317",
+                "Name": "Anandhi"
+            },
+            {
+                "Imdb_id": "nm6489058",
+                "Name": "Yogi Babu"
+            },
+            {
+                "Imdb_id": "nm6851593",
+                "Name": "Lijeesh"
+            },
+            {
+                "Imdb_id": "nm6765728",
+                "Name": "Hari Krishnan"
+            },
+            {
+                "Imdb_id": "nm1941409",
+                "Name": "Shanmugha Rajan"
+            },
+            {
+                "Imdb_id": "nm2533953",
+                "Name": "G. Marimuthu"
+            },
+            {
+                "Imdb_id": "nm5852535",
+                "Name": "'Poo' Ram"
+            },
+            {
+                "Imdb_id": "nm1021908",
+                "Name": "Karate Venkatesan"
+            },
+            {
+                "Imdb_id": "nm5654096",
+                "Name": "Anthony Dasan"
+            },
+            {
+                "Imdb_id": "nm1035331",
+                "Name": "Lizzie Antony"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "C/o Kancharapalem",
+            "director": [
+                "Venkatesh Maha"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt7391996/mediaviewer/rm3685717761",
+            "bio": "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+            "run time": "152 minutes",
+            "genre": [
+                "Drama"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Telugu"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0657505",
+                "Name": "Amol Palekar"
+            },
+            {
+                "Imdb_id": "nm0331727",
+                "Name": "Bindiya Goswami"
+            },
+            {
+                "Imdb_id": "nm0894340",
+                "Name": "Deven Verma"
+            },
+            {
+                "Imdb_id": "nm0451863",
+                "Name": "Shubha Khote"
+            },
+            {
+                "Imdb_id": "nm1542933",
+                "Name": "Manju Singh"
+            },
+            {
+                "Imdb_id": "nm0665544",
+                "Name": "Dina Pathak"
+            },
+            {
+                "Imdb_id": "nm0701106",
+                "Name": "Pushpa"
+            },
+            {
+                "Imdb_id": "nm0008932",
+                "Name": "David Abraham"
+            },
+            {
+                "Imdb_id": "nm0664109",
+                "Name": "Yunus Parvez"
+            },
+            {
+                "Imdb_id": "nm0244884",
+                "Name": "Utpal Dutt"
+            },
+            {
+                "Imdb_id": "nm1538133",
+                "Name": "Ashwani"
+            },
+            {
+                "Imdb_id": "nm1442040",
+                "Name": "Harish Magon"
+            },
+            {
+                "Imdb_id": "nm0080410",
+                "Name": "Bhola"
+            },
+            {
+                "Imdb_id": "nm1059411",
+                "Name": "Amol Sen"
+            },
+            {
+                "Imdb_id": "nm1193461",
+                "Name": "Siddharth"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Drishyam 2",
+            "director": [
+                "Jeethu Joseph"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt12361178/mediaviewer/rm4072658177",
+            "bio": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?",
+            "run time": "152 minutes",
+            "genre": [
+                "Crime"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Malayalam"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0482320",
+                "Name": "Mohanlal"
+            },
+            {
+                "Imdb_id": "nm0576169",
+                "Name": "Meena"
+            },
+            {
+                "Imdb_id": "nm6189602",
+                "Name": "Ansiba"
+            },
+            {
+                "Imdb_id": "nm6189601",
+                "Name": "Esther Anil"
+            },
+            {
+                "Imdb_id": "nm1388202",
+                "Name": "Siddique"
+            },
+            {
+                "Imdb_id": "nm5242011",
+                "Name": "Asha Sharath"
+            },
+            {
+                "Imdb_id": "nm0756533",
+                "Name": "Saikumar"
+            },
+            {
+                "Imdb_id": "nm1729382",
+                "Name": "Murali Gopy"
+            },
+            {
+                "Imdb_id": "nm1432906",
+                "Name": "Ganesh Kumar"
+            },
+            {
+                "Imdb_id": "nm6440625",
+                "Name": "Anjali Nair"
+            },
+            {
+                "Imdb_id": "nm1230444",
+                "Name": "Sumesh Chandran"
+            },
+            {
+                "Imdb_id": "nm1367755",
+                "Name": "Antony Perumbavoor"
+            },
+            {
+                "Imdb_id": "nm3440031",
+                "Name": "Dinesh Prabhakar"
+            },
+            {
+                "Imdb_id": "nm1230444",
+                "Name": "Ajith Koothattukulam"
+            },
+            {
+                "Imdb_id": "nm1985564",
+                "Name": "Narayanan Nair"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Apur Sansar",
+            "director": [
+                "Satyajit Ray"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0052572/mediaviewer/rm2084100609",
+            "bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+            "run time": "105 minutes",
+            "genre": [
+                "Drama"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Bengali"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0154164",
+                "Name": "Soumitra Chatterjee"
+            },
+            {
+                "Imdb_id": "nm0846616",
+                "Name": "Sharmila Tagore"
+            },
+            {
+                "Imdb_id": "nm0149845",
+                "Name": "Alok Chakravarty"
+            },
+            {
+                "Imdb_id": "nm0611575",
+                "Name": "Swapan Mukherjee"
+            },
+            {
+                "Imdb_id": "nm5576481",
+                "Name": "Tushar Bandyopadhyay"
+            },
+            {
+                "Imdb_id": "nm4897797",
+                "Name": "Gupi Banerjee"
+            },
+            {
+                "Imdb_id": "nm1434574",
+                "Name": "Panchanan Bhattacharya"
+            },
+            {
+                "Imdb_id": "nm0080370",
+                "Name": "Shanti Bhattacherjee"
+            },
+            {
+                "Imdb_id": "nm5576471",
+                "Name": "Jiten Bhons"
+            },
+            {
+                "Imdb_id": "nm0154107",
+                "Name": "Abhijit Chatterjee"
+            },
+            {
+                "Imdb_id": "nm0154132",
+                "Name": "Jogesh Chatterjee"
+            },
+            {
+                "Imdb_id": "nm0222439",
+                "Name": "Asha Devi"
+            },
+            {
+                "Imdb_id": "nm0067570",
+                "Name": "Belarani Devi"
+            },
+            {
+                "Imdb_id": "nm0222490",
+                "Name": "Sefalika Devi"
+            },
+            {
+                "Imdb_id": "nm5576537",
+                "Name": "Biren Ghosh"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Pariyerum Perumal",
+            "director": [
+                "Mari Selvaraj"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt8176054/mediaviewer/rm2678026496",
+            "bio": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+            "run time": "154 minutes",
+            "genre": [
+                "Drama"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Tamil"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm8620668",
+                "Name": "Radha Bessy"
+            },
+            {
+                "Imdb_id": "nm1010066",
+                "Name": "Subba Rao Vepada"
+            },
+            {
+                "Imdb_id": "nm7789721",
+                "Name": "Praneeta Patnaik"
+            },
+            {
+                "Imdb_id": "nm9952282",
+                "Name": "Karthik Rathnam"
+            },
+            {
+                "Imdb_id": "nm1657936",
+                "Name": "Praveena Paruchuri"
+            },
+            {
+                "Imdb_id": "nm9808565",
+                "Name": "Mohan Bhagat"
+            },
+            {
+                "Imdb_id": "nm1218456",
+                "Name": "Nithyasree Goru"
+            },
+            {
+                "Imdb_id": "nm1068047",
+                "Name": "Kesava Karri"
+            },
+            {
+                "Imdb_id": "nm1218459",
+                "Name": "Appa Rao Adari"
+            },
+            {
+                "Imdb_id": "nm1218458",
+                "Name": "Janakiramayya Adari"
+            },
+            {
+                "Imdb_id": "nm1218456",
+                "Name": "Ramesh Aditya"
+            },
+            {
+                "Imdb_id": "nm1218460",
+                "Name": "Mohan Alla"
+            },
+            {
+                "Imdb_id": "nm1218460",
+                "Name": "Akula Anil"
+            },
+            {
+                "Imdb_id": "nm8198549",
+                "Name": "Apparao"
+            },
+            {
+                "Imdb_id": "nm1218458",
+                "Name": "Brahmanandam Atta"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Kireedam",
+            "director": [
+                "Sibi Malayil"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt0237376/mediaviewer/rm1299766785",
+            "bio": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw.",
+            "run time": "124 minutes",
+            "genre": [
+                "Action"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Malayalam"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0482320",
+                "Name": "Mohanlal"
+            },
+            {
+                "Imdb_id": "nm0858128",
+                "Name": "Thilakan"
+            },
+            {
+                "Imdb_id": "nm0690450",
+                "Name": "Kaviyoor Ponnamma"
+            },
+            {
+                "Imdb_id": "nm0664104",
+                "Name": "Parvathi"
+            },
+            {
+                "Imdb_id": "nm0762844",
+                "Name": "Sankaradi"
+            },
+            {
+                "Imdb_id": "nm0613512",
+                "Name": "Murali"
+            },
+            {
+                "Imdb_id": "nm0415549",
+                "Name": "Jagathi Sreekumar"
+            },
+            {
+                "Imdb_id": "nm0683477",
+                "Name": "Maniyanpilla Raju"
+            },
+            {
+                "Imdb_id": "nm1559469",
+                "Name": "Keerikkadan Jose"
+            },
+            {
+                "Imdb_id": "nm0541126",
+                "Name": "Mammukoya"
+            },
+            {
+                "Imdb_id": "nm0415538",
+                "Name": "Jagadish"
+            },
+            {
+                "Imdb_id": "nm0881292",
+                "Name": "Oduvil Unnikrishnan"
+            },
+            {
+                "Imdb_id": "nm1792682",
+                "Name": "Usha"
+            },
+            {
+                "Imdb_id": "nm1431853",
+                "Name": "Yadu Krishnan"
+            }
+        ]
+    },
+    {
+        "Movie_Name": {
+            "name": "Natsamrat",
+            "director": [
+                "Mahesh Manjrekar"
+            ],
+            "poster_image_url": "https://www.imdb.com//title/tt5311546/mediaviewer/rm3539275520",
+            "bio": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+            "run time": "166 minutes",
+            "genre": [
+                "Drama"
+            ],
+            "Country": "India",
+            "Movie_Language": [
+                "Marathi"
+            ]
+        },
+        "Cast": [
+            {
+                "Imdb_id": "nm0007113",
+                "Name": "Nana Patekar"
+            },
+            {
+                "Imdb_id": "nm3874979",
+                "Name": "Medha Manjrekar"
+            },
+            {
+                "Imdb_id": "nm3575147",
+                "Name": "Mrunmayee Deshpande"
+            },
+            {
+                "Imdb_id": "nm0059461",
+                "Name": "Sunil Barve"
+            },
+            {
+                "Imdb_id": "nm0324845",
+                "Name": "Vikram Gokhale"
+            },
+            {
+                "Imdb_id": "nm2288290",
+                "Name": "Ajit Parab"
+            },
+            {
+                "Imdb_id": "nm1429271",
+                "Name": "Neha Pendse"
+            },
+            {
+                "Imdb_id": "nm1241555",
+                "Name": "Jitendra Joshi"
+            },
+            {
+                "Imdb_id": "nm7827973",
+                "Name": "Shridhar Limaye"
+            },
+            {
+                "Imdb_id": "nm1276538",
+                "Name": "Savita Malpekar"
+            },
+            {
+                "Imdb_id": "nm5692040",
+                "Name": "Sandeep Pathak"
+            },
+            {
+                "Imdb_id": "nm4483091",
+                "Name": "Pooja Sawant"
+            },
+            {
+                "Imdb_id": "nm1798561",
+                "Name": "Aniket Vishwasrao"
+            },
+            {
+                "Imdb_id": "nm1277861",
+                "Name": "Jaywant Wadkar"
+            }
+        ]
+    }
+]

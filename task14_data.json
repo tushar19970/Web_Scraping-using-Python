@@ -1,0 +1,1022 @@
+[
+    {
+        "nm0052333": {
+            "Name": "Kanu Bannerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0052334",
+                "Name": "Karuna Bannerjee",
+                "count_movies": 1
+            }
+        },
+        "nm0052334": {
+            "Name": "Karuna Bannerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222447",
+                "Name": "Chunibala Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222447": {
+            "Name": "Chunibala Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0201871",
+                "Name": "Uma Das Gupta",
+                "count_movies": 1
+            }
+        },
+        "nm0201871": {
+            "Name": "Uma Das Gupta",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0052343",
+                "Name": "Subir Banerjee",
+                "count_movies": 1
+            }
+        },
+        "nm0052343": {
+            "Name": "Subir Banerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0051846",
+                "Name": "Runki Banerjee",
+                "count_movies": 1
+            }
+        },
+        "nm0051846": {
+            "Name": "Runki Banerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222480",
+                "Name": "Reba Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222480": {
+            "Name": "Reba Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222436",
+                "Name": "Aparna Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222436": {
+            "Name": "Aparna Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0149831",
+                "Name": "Tulsi Chakraborty",
+                "count_movies": 1
+            }
+        },
+        "nm0149831": {
+            "Name": "Tulsi Chakraborty",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0051836",
+                "Name": "Haren Banerjee",
+                "count_movies": 1
+            }
+        },
+        "nm0051836": {
+            "Name": "Haren Banerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5580026",
+                "Name": "Rampada Das",
+                "count_movies": 1
+            }
+        },
+        "nm5580026": {
+            "Name": "Rampada Das",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222467",
+                "Name": "Nibhanani Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222467": {
+            "Name": "Nibhanani Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0304346",
+                "Name": "Rama Gangopadhaya",
+                "count_movies": 1
+            }
+        },
+        "nm0304346": {
+            "Name": "Rama Gangopadhaya",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0304351",
+                "Name": "Roma Ganguli",
+                "count_movies": 1
+            }
+        },
+        "nm0304351": {
+            "Name": "Roma Ganguli",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0611518",
+                "Name": "Binoy Mukherjee",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0352032": {
+            "Name": "Kamal Haasan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0764853",
+                "Name": "Saranya Ponvannan",
+                "count_movies": 1
+            }
+        },
+        "nm0764853": {
+            "Name": "Saranya Ponvannan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0304265",
+                "Name": "Delhi Ganesh",
+                "count_movies": 1
+            }
+        },
+        "nm0304265": {
+            "Name": "Delhi Ganesh",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0417301",
+                "Name": "Janakaraj",
+                "count_movies": 1
+            }
+        },
+        "nm0417301": {
+            "Name": "Janakaraj",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0440232",
+                "Name": "Karthika",
+                "count_movies": 1
+            }
+        },
+        "nm0440232": {
+            "Name": "Karthika",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0621937",
+                "Name": "Nassar",
+                "count_movies": 1
+            }
+        },
+        "nm0621937": {
+            "Name": "Nassar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0025627",
+                "Name": "Tinnu Anand",
+                "count_movies": 1
+            }
+        },
+        "nm0025627": {
+            "Name": "Tinnu Anand",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0712437",
+                "Name": "Nizhalgal Ravi",
+                "count_movies": 1
+            }
+        },
+        "nm0712437": {
+            "Name": "Nizhalgal Ravi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1115041",
+                "Name": "M.V. Vasudeva Rao",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0352032": {
+            "Name": "Kamal Haasan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0534856",
+                "Name": "Madhavan",
+                "count_movies": 1
+            }
+        },
+        "nm0534856": {
+            "Name": "Madhavan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0993256",
+                "Name": "Kiran Rathod",
+                "count_movies": 1
+            }
+        },
+        "nm0993256": {
+            "Name": "Kiran Rathod",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0621937",
+                "Name": "Nassar",
+                "count_movies": 1
+            }
+        },
+        "nm0621937": {
+            "Name": "Nassar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0080248",
+                "Name": "Santhana Bharathi",
+                "count_movies": 1
+            }
+        },
+        "nm0080248": {
+            "Name": "Santhana Bharathi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1428808",
+                "Name": "Uma Riyaz Khan",
+                "count_movies": 1
+            }
+        },
+        "nm1428808": {
+            "Name": "Uma Riyaz Khan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1429474",
+                "Name": "Yugi Sethu",
+                "count_movies": 1
+            }
+        },
+        "nm1429474": {
+            "Name": "Yugi Sethu",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0369696",
+                "Name": "Ilavarasu",
+                "count_movies": 1
+            }
+        },
+        "nm0369696": {
+            "Name": "Ilavarasu",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1428051",
+                "Name": "Balu Anand",
+                "count_movies": 1
+            }
+        },
+        "nm1428051": {
+            "Name": "Balu Anand",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0781630",
+                "Name": "Seema",
+                "count_movies": 1
+            }
+        },
+        "nm0781630": {
+            "Name": "Seema",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0794478",
+                "Name": "R.S. Shivaji",
+                "count_movies": 1
+            }
+        },
+        "nm0794478": {
+            "Name": "R.S. Shivaji",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1429352",
+                "Name": "Laxmi Rattan",
+                "count_movies": 1
+            }
+        },
+        "nm1429352": {
+            "Name": "Laxmi Rattan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1428279",
+                "Name": "Chelladurai",
+                "count_movies": 1
+            }
+        },
+        "nm1428279": {
+            "Name": "Chelladurai",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1428684",
+                "Name": "Hillaary",
+                "count_movies": 1
+            }
+        },
+        "nm1428684": {
+            "Name": "Hillaary",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1427699",
+                "Name": "Jacob",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm6453091": {
+            "Name": "Kathir",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6695317",
+                "Name": "Anandhi",
+                "count_movies": 1
+            }
+        },
+        "nm6695317": {
+            "Name": "Anandhi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6489058",
+                "Name": "Yogi Babu",
+                "count_movies": 1
+            }
+        },
+        "nm6489058": {
+            "Name": "Yogi Babu",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6851593",
+                "Name": "Lijeesh",
+                "count_movies": 1
+            }
+        },
+        "nm6851593": {
+            "Name": "Lijeesh",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6765728",
+                "Name": "Hari Krishnan",
+                "count_movies": 1
+            }
+        },
+        "nm6765728": {
+            "Name": "Hari Krishnan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1941409",
+                "Name": "Shanmugha Rajan",
+                "count_movies": 1
+            }
+        },
+        "nm1941409": {
+            "Name": "Shanmugha Rajan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm2533953",
+                "Name": "G. Marimuthu",
+                "count_movies": 1
+            }
+        },
+        "nm2533953": {
+            "Name": "G. Marimuthu",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5852535",
+                "Name": "'Poo' Ram",
+                "count_movies": 1
+            }
+        },
+        "nm5852535": {
+            "Name": "'Poo' Ram",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1021908",
+                "Name": "Karate Venkatesan",
+                "count_movies": 1
+            }
+        },
+        "nm1021908": {
+            "Name": "Karate Venkatesan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5654096",
+                "Name": "Anthony Dasan",
+                "count_movies": 1
+            }
+        },
+        "nm5654096": {
+            "Name": "Anthony Dasan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1035331",
+                "Name": "Lizzie Antony",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0657505": {
+            "Name": "Amol Palekar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0331727",
+                "Name": "Bindiya Goswami",
+                "count_movies": 1
+            }
+        },
+        "nm0331727": {
+            "Name": "Bindiya Goswami",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0894340",
+                "Name": "Deven Verma",
+                "count_movies": 1
+            }
+        },
+        "nm0894340": {
+            "Name": "Deven Verma",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0451863",
+                "Name": "Shubha Khote",
+                "count_movies": 1
+            }
+        },
+        "nm0451863": {
+            "Name": "Shubha Khote",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1542933",
+                "Name": "Manju Singh",
+                "count_movies": 1
+            }
+        },
+        "nm1542933": {
+            "Name": "Manju Singh",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0665544",
+                "Name": "Dina Pathak",
+                "count_movies": 1
+            }
+        },
+        "nm0665544": {
+            "Name": "Dina Pathak",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0701106",
+                "Name": "Pushpa",
+                "count_movies": 1
+            }
+        },
+        "nm0701106": {
+            "Name": "Pushpa",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0008932",
+                "Name": "David Abraham",
+                "count_movies": 1
+            }
+        },
+        "nm0008932": {
+            "Name": "David Abraham",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0664109",
+                "Name": "Yunus Parvez",
+                "count_movies": 1
+            }
+        },
+        "nm0664109": {
+            "Name": "Yunus Parvez",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0244884",
+                "Name": "Utpal Dutt",
+                "count_movies": 1
+            }
+        },
+        "nm0244884": {
+            "Name": "Utpal Dutt",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1538133",
+                "Name": "Ashwani",
+                "count_movies": 1
+            }
+        },
+        "nm1538133": {
+            "Name": "Ashwani",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1442040",
+                "Name": "Harish Magon",
+                "count_movies": 1
+            }
+        },
+        "nm1442040": {
+            "Name": "Harish Magon",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0080410",
+                "Name": "Bhola",
+                "count_movies": 1
+            }
+        },
+        "nm0080410": {
+            "Name": "Bhola",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1059411",
+                "Name": "Amol Sen",
+                "count_movies": 1
+            }
+        },
+        "nm1059411": {
+            "Name": "Amol Sen",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1193461",
+                "Name": "Siddharth",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0482320": {
+            "Name": "Mohanlal",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0576169",
+                "Name": "Meena",
+                "count_movies": 1
+            }
+        },
+        "nm0576169": {
+            "Name": "Meena",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6189602",
+                "Name": "Ansiba",
+                "count_movies": 1
+            }
+        },
+        "nm6189602": {
+            "Name": "Ansiba",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6189601",
+                "Name": "Esther Anil",
+                "count_movies": 1
+            }
+        },
+        "nm6189601": {
+            "Name": "Esther Anil",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1388202",
+                "Name": "Siddique",
+                "count_movies": 1
+            }
+        },
+        "nm1388202": {
+            "Name": "Siddique",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5242011",
+                "Name": "Asha Sharath",
+                "count_movies": 1
+            }
+        },
+        "nm5242011": {
+            "Name": "Asha Sharath",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0756533",
+                "Name": "Saikumar",
+                "count_movies": 1
+            }
+        },
+        "nm0756533": {
+            "Name": "Saikumar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1729382",
+                "Name": "Murali Gopy",
+                "count_movies": 1
+            }
+        },
+        "nm1729382": {
+            "Name": "Murali Gopy",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1432906",
+                "Name": "Ganesh Kumar",
+                "count_movies": 1
+            }
+        },
+        "nm1432906": {
+            "Name": "Ganesh Kumar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm6440625",
+                "Name": "Anjali Nair",
+                "count_movies": 1
+            }
+        },
+        "nm6440625": {
+            "Name": "Anjali Nair",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1230444",
+                "Name": "Sumesh Chandran",
+                "count_movies": 1
+            }
+        },
+        "nm1230444": {
+            "Name": "Ajith Koothattukulam",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1985564",
+                "Name": "Narayanan Nair",
+                "count_movies": 1
+            }
+        },
+        "nm1367755": {
+            "Name": "Antony Perumbavoor",
+            "frequent_co_actors": {
+                "Imdb_id": "nm3440031",
+                "Name": "Dinesh Prabhakar",
+                "count_movies": 1
+            }
+        },
+        "nm3440031": {
+            "Name": "Dinesh Prabhakar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1230444",
+                "Name": "Ajith Koothattukulam",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0154164": {
+            "Name": "Soumitra Chatterjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0846616",
+                "Name": "Sharmila Tagore",
+                "count_movies": 1
+            }
+        },
+        "nm0846616": {
+            "Name": "Sharmila Tagore",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0149845",
+                "Name": "Alok Chakravarty",
+                "count_movies": 1
+            }
+        },
+        "nm0149845": {
+            "Name": "Alok Chakravarty",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0611575",
+                "Name": "Swapan Mukherjee",
+                "count_movies": 1
+            }
+        },
+        "nm0611575": {
+            "Name": "Swapan Mukherjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5576481",
+                "Name": "Tushar Bandyopadhyay",
+                "count_movies": 1
+            }
+        },
+        "nm5576481": {
+            "Name": "Tushar Bandyopadhyay",
+            "frequent_co_actors": {
+                "Imdb_id": "nm4897797",
+                "Name": "Gupi Banerjee",
+                "count_movies": 1
+            }
+        },
+        "nm4897797": {
+            "Name": "Gupi Banerjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1434574",
+                "Name": "Panchanan Bhattacharya",
+                "count_movies": 1
+            }
+        },
+        "nm1434574": {
+            "Name": "Panchanan Bhattacharya",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0080370",
+                "Name": "Shanti Bhattacherjee",
+                "count_movies": 1
+            }
+        },
+        "nm0080370": {
+            "Name": "Shanti Bhattacherjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5576471",
+                "Name": "Jiten Bhons",
+                "count_movies": 1
+            }
+        },
+        "nm5576471": {
+            "Name": "Jiten Bhons",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0154107",
+                "Name": "Abhijit Chatterjee",
+                "count_movies": 1
+            }
+        },
+        "nm0154107": {
+            "Name": "Abhijit Chatterjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0154132",
+                "Name": "Jogesh Chatterjee",
+                "count_movies": 1
+            }
+        },
+        "nm0154132": {
+            "Name": "Jogesh Chatterjee",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222439",
+                "Name": "Asha Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222439": {
+            "Name": "Asha Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0067570",
+                "Name": "Belarani Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0067570": {
+            "Name": "Belarani Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0222490",
+                "Name": "Sefalika Devi",
+                "count_movies": 1
+            }
+        },
+        "nm0222490": {
+            "Name": "Sefalika Devi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5576537",
+                "Name": "Biren Ghosh",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm8620668": {
+            "Name": "Radha Bessy",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1010066",
+                "Name": "Subba Rao Vepada",
+                "count_movies": 1
+            }
+        },
+        "nm1010066": {
+            "Name": "Subba Rao Vepada",
+            "frequent_co_actors": {
+                "Imdb_id": "nm7789721",
+                "Name": "Praneeta Patnaik",
+                "count_movies": 1
+            }
+        },
+        "nm7789721": {
+            "Name": "Praneeta Patnaik",
+            "frequent_co_actors": {
+                "Imdb_id": "nm9952282",
+                "Name": "Karthik Rathnam",
+                "count_movies": 1
+            }
+        },
+        "nm9952282": {
+            "Name": "Karthik Rathnam",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1657936",
+                "Name": "Praveena Paruchuri",
+                "count_movies": 1
+            }
+        },
+        "nm1657936": {
+            "Name": "Praveena Paruchuri",
+            "frequent_co_actors": {
+                "Imdb_id": "nm9808565",
+                "Name": "Mohan Bhagat",
+                "count_movies": 1
+            }
+        },
+        "nm9808565": {
+            "Name": "Mohan Bhagat",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218456",
+                "Name": "Nithyasree Goru",
+                "count_movies": 1
+            }
+        },
+        "nm1218456": {
+            "Name": "Ramesh Aditya",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218460",
+                "Name": "Mohan Alla",
+                "count_movies": 1
+            }
+        },
+        "nm1068047": {
+            "Name": "Kesava Karri",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218459",
+                "Name": "Appa Rao Adari",
+                "count_movies": 1
+            }
+        },
+        "nm1218459": {
+            "Name": "Appa Rao Adari",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218458",
+                "Name": "Janakiramayya Adari",
+                "count_movies": 1
+            }
+        },
+        "nm1218458": {
+            "Name": "Janakiramayya Adari",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218456",
+                "Name": "Ramesh Aditya",
+                "count_movies": 1
+            }
+        },
+        "nm1218460": {
+            "Name": "Akula Anil",
+            "frequent_co_actors": {
+                "Imdb_id": "nm8198549",
+                "Name": "Apparao",
+                "count_movies": 1
+            }
+        },
+        "nm8198549": {
+            "Name": "Apparao",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1218458",
+                "Name": "Brahmanandam Atta",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0482320": {
+            "Name": "Mohanlal",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0858128",
+                "Name": "Thilakan",
+                "count_movies": 1
+            }
+        },
+        "nm0858128": {
+            "Name": "Thilakan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0690450",
+                "Name": "Kaviyoor Ponnamma",
+                "count_movies": 1
+            }
+        },
+        "nm0690450": {
+            "Name": "Kaviyoor Ponnamma",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0664104",
+                "Name": "Parvathi",
+                "count_movies": 1
+            }
+        },
+        "nm0664104": {
+            "Name": "Parvathi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0762844",
+                "Name": "Sankaradi",
+                "count_movies": 1
+            }
+        },
+        "nm0762844": {
+            "Name": "Sankaradi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0613512",
+                "Name": "Murali",
+                "count_movies": 1
+            }
+        },
+        "nm0613512": {
+            "Name": "Murali",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0415549",
+                "Name": "Jagathi Sreekumar",
+                "count_movies": 1
+            }
+        },
+        "nm0415549": {
+            "Name": "Jagathi Sreekumar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0683477",
+                "Name": "Maniyanpilla Raju",
+                "count_movies": 1
+            }
+        },
+        "nm0683477": {
+            "Name": "Maniyanpilla Raju",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1559469",
+                "Name": "Keerikkadan Jose",
+                "count_movies": 1
+            }
+        },
+        "nm1559469": {
+            "Name": "Keerikkadan Jose",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0541126",
+                "Name": "Mammukoya",
+                "count_movies": 1
+            }
+        },
+        "nm0541126": {
+            "Name": "Mammukoya",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0415538",
+                "Name": "Jagadish",
+                "count_movies": 1
+            }
+        },
+        "nm0415538": {
+            "Name": "Jagadish",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0881292",
+                "Name": "Oduvil Unnikrishnan",
+                "count_movies": 1
+            }
+        },
+        "nm0881292": {
+            "Name": "Oduvil Unnikrishnan",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1792682",
+                "Name": "Usha",
+                "count_movies": 1
+            }
+        },
+        "nm1792682": {
+            "Name": "Usha",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1431853",
+                "Name": "Yadu Krishnan",
+                "count_movies": 1
+            }
+        }
+    },
+    {
+        "nm0007113": {
+            "Name": "Nana Patekar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm3874979",
+                "Name": "Medha Manjrekar",
+                "count_movies": 1
+            }
+        },
+        "nm3874979": {
+            "Name": "Medha Manjrekar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm3575147",
+                "Name": "Mrunmayee Deshpande",
+                "count_movies": 1
+            }
+        },
+        "nm3575147": {
+            "Name": "Mrunmayee Deshpande",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0059461",
+                "Name": "Sunil Barve",
+                "count_movies": 1
+            }
+        },
+        "nm0059461": {
+            "Name": "Sunil Barve",
+            "frequent_co_actors": {
+                "Imdb_id": "nm0324845",
+                "Name": "Vikram Gokhale",
+                "count_movies": 1
+            }
+        },
+        "nm0324845": {
+            "Name": "Vikram Gokhale",
+            "frequent_co_actors": {
+                "Imdb_id": "nm2288290",
+                "Name": "Ajit Parab",
+                "count_movies": 1
+            }
+        },
+        "nm2288290": {
+            "Name": "Ajit Parab",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1429271",
+                "Name": "Neha Pendse",
+                "count_movies": 1
+            }
+        },
+        "nm1429271": {
+            "Name": "Neha Pendse",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1241555",
+                "Name": "Jitendra Joshi",
+                "count_movies": 1
+            }
+        },
+        "nm1241555": {
+            "Name": "Jitendra Joshi",
+            "frequent_co_actors": {
+                "Imdb_id": "nm7827973",
+                "Name": "Shridhar Limaye",
+                "count_movies": 1
+            }
+        },
+        "nm7827973": {
+            "Name": "Shridhar Limaye",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1276538",
+                "Name": "Savita Malpekar",
+                "count_movies": 1
+            }
+        },
+        "nm1276538": {
+            "Name": "Savita Malpekar",
+            "frequent_co_actors": {
+                "Imdb_id": "nm5692040",
+                "Name": "Sandeep Pathak",
+                "count_movies": 1
+            }
+        },
+        "nm5692040": {
+            "Name": "Sandeep Pathak",
+            "frequent_co_actors": {
+                "Imdb_id": "nm4483091",
+                "Name": "Pooja Sawant",
+                "count_movies": 1
+            }
+        },
+        "nm4483091": {
+            "Name": "Pooja Sawant",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1798561",
+                "Name": "Aniket Vishwasrao",
+                "count_movies": 1
+            }
+        },
+        "nm1798561": {
+            "Name": "Aniket Vishwasrao",
+            "frequent_co_actors": {
+                "Imdb_id": "nm1277861",
+                "Name": "Jaywant Wadkar",
+                "count_movies": 1
+            }
+        }
+    }
+]
